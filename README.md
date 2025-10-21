@@ -12,6 +12,7 @@ essas duas empresas representam 41% do faturamento total, evidenciando uma alta 
 Esse padrão aponta para risco crítico de concentração, já que a saída desses clientes causaria impacto expressivo na receita. Identificou-se ainda que o 
 cliente F (classificação Ouro) está próximo de se tornar VIP, recomendando-se priorizar ações de fidelização para ele e os clientes Prata com maior potencial de crescimento, 
 visando reduzir dependência dos atuais grandes contas.
+![Análise 01](prints/Segmentação de Clientes.png)
 
 ## Performance de Produtos
 
