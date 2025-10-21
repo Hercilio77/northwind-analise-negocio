@@ -12,7 +12,7 @@ essas duas empresas representam 41% do faturamento total, evidenciando uma alta 
 Esse padrão aponta para risco crítico de concentração, já que a saída desses clientes causaria impacto expressivo na receita. Identificou-se ainda que o 
 cliente F (classificação Ouro) está próximo de se tornar VIP, recomendando-se priorizar ações de fidelização para ele e os clientes Prata com maior potencial de crescimento, 
 visando reduzir dependência dos atuais grandes contas.
-![Análise 01](prints/Segmentação de Clientes.png)
+![Segmentação de Clientes](prints/Segmentacao_de_Clientes.jpg)
 
 ## Performance de Produtos
 
@@ -20,6 +20,7 @@ O café, principal produto de alto ticket, responde por uma fatia relevante do f
 Por outro lado, produtos de baixo valor como chá verde vendem em escala, mas não alteram de forma significativa o resultado financeiro global. 
 O sucesso está diretamente ligado ao mix de produtos e na oferta de itens com maior valor agregado — apenas aumentar o volume de vendas não garante crescimento sustentável. 
 Destaca-se ainda o risco de eventuais perdas de clientes-chave, que poderiam comprometer mensalmente os resultados.
+![Performance de Produtos](prints/Performance_de_Produtos.jpg)
 
 ## Evolução Temporal do Faturamento
 
@@ -27,12 +28,14 @@ A elevação do faturamento entre fevereiro e março foi impulsionada por um tic
 a queda no ticket médio resultou em diminuição do faturamento, evidenciando que o valor do ticket é o principal determinante de crescimento. 
 Apostar unicamente em vendas de alto valor pode ser arriscado, pois quedas pontuais afetam o desempenho. Recomenda-se expandir a base de clientes e diversificar 
 produtos comercializados para equilibrar volume e valor, construindo uma performance sustentável.
+![Evolução Temporal](prints/Evolucao_Temporal.jpg)
 
 ## Performance dos Vendedores
 
 O faturamento dos vendedores é significativamente impulsionado pelo volume de clientes e a quantidade de pedidos realizados, mais do que pelo ticket médio individual. 
 Vendedores com maior diversificação de produtos contribuem positivamente para o resultado global e reduzem riscos ao negócio. Atenção especial deve ser dada ao vendedor líder, 
 que concentra parcela relevante do faturamento, sua retenção e utilização como referência para o desenvolvimento dos demais colaboradores é fundamental para mitigar riscos e elevar o padrão da equipe.
+![Performance dos Vendedores](prints/Performance_dos_Vendedores.jpg)
 
 ## Performance Regional
 
@@ -40,4 +43,5 @@ Ticket médio elevado é um indicador relevante, mas não necessariamente reflet
 O número de pedidos isolado tampouco garante faturamento expressivo, pois regiões com volumes altos podem apresentar receitas inferiores às áreas com menos vendas e tickets mais elevados. 
 Frequência de compra semelhante ao número de pedidos em algumas cidades evidencia baixa fidelização da clientela. Para decisões estratégicas de expansão, 
 é imprescindível analisar não só o topo do ranking, mas o histórico de recorrência e o perfil dos clientes, priorizando regiões com base sólida e recorrente em detrimento de grandes vendas pontuais.
+![Performance Regional](prints/Performance_Regional.jpg)
 
