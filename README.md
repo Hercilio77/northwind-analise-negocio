@@ -5,7 +5,7 @@
 Este projeto utiliza consultas SQL no banco Northwind para responder perguntas reais de negócio sobre clientes, produtos, vendedores e regiões, com foco em insights executivos e recomendações práticas para decisões empresariais.
 
 ## Segmentação de Clientes: Quem São os VIPs e Por Quê?
-![Segmentação de Clientes](prints/Segmentacao_de_Clientes.jpg)
+![Segmentação de Clientes](prints/Segmentacao_de_Clientes.png)
 
 No perfil VIP estão as empresas Company BB e Company G, ambas apresentam ticket médio significativamente elevado (acima de R$5.000, chegando a R$13.800), 
 porém realizam poucas compras e em intervalos pouco recorrentes, o que caracteriza clientes de grande porte, mas com baixo engajamento no longo prazo. Juntas, 
@@ -15,7 +15,7 @@ cliente F (classificação Ouro) está próximo de se tornar VIP, recomendando-s
 visando reduzir dependência dos atuais grandes contas.
 
 ## Performance de Produtos
-![Performance de Produtos](prints/Performance_de_Produtos.jpg)
+![Performance de Produtos](prints/Performance_de_Produtos.png)
 
 O café, principal produto de alto ticket, responde por uma fatia relevante do faturamento, porém atende apenas quatro clientes, reforçando o risco de concentração. 
 Por outro lado, produtos de baixo valor como chá verde vendem em escala, mas não alteram de forma significativa o resultado financeiro global. 
@@ -23,7 +23,7 @@ O sucesso está diretamente ligado ao mix de produtos e na oferta de itens com m
 Destaca-se ainda o risco de eventuais perdas de clientes-chave, que poderiam comprometer mensalmente os resultados.
 
 ## Evolução Temporal do Faturamento
-![Evolução Temporal](prints/Evolucao_Temporal.jpg)
+![Evolução Temporal](prints/Evolucao_Temporal.png)
 
 A elevação do faturamento entre fevereiro e março foi impulsionada por um ticket médio excepcionalmente alto nesse período. Apesar do acréscimo no volume de vendas no mês seguinte, 
 a queda no ticket médio resultou em diminuição do faturamento, evidenciando que o valor do ticket é o principal determinante de crescimento. 
@@ -31,14 +31,14 @@ Apostar unicamente em vendas de alto valor pode ser arriscado, pois quedas pontu
 produtos comercializados para equilibrar volume e valor, construindo uma performance sustentável.
 
 ## Performance dos Vendedores
-![Performance dos Vendedores](prints/Performance_dos_Vendedores.jpg)
+![Performance dos Vendedores](prints/Performance_dos_Vendedores.png)
 
 O faturamento dos vendedores é significativamente impulsionado pelo volume de clientes e a quantidade de pedidos realizados, mais do que pelo ticket médio individual. 
 Vendedores com maior diversificação de produtos contribuem positivamente para o resultado global e reduzem riscos ao negócio. Atenção especial deve ser dada ao vendedor líder, 
 que concentra parcela relevante do faturamento, sua retenção e utilização como referência para o desenvolvimento dos demais colaboradores é fundamental para mitigar riscos e elevar o padrão da equipe.
 
 ## Performance Regional
-![Performance Regional](prints/Performance_Regional.jpg)
+![Performance Regional](prints/Performance_Regional.png)
 
 Ticket médio elevado é um indicador relevante, mas não necessariamente reflete o potencial de cada região, já que vendas excepcionais podem distorcer o ranking temporariamente.
 O número de pedidos isolado tampouco garante faturamento expressivo, pois regiões com volumes altos podem apresentar receitas inferiores às áreas com menos vendas e tickets mais elevados. 
