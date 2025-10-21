@@ -5,7 +5,7 @@
 Este projeto utiliza consultas SQL no banco Northwind para responder perguntas reais de negócio sobre clientes, produtos, vendedores e regiões, com foco em insights executivos e recomendações práticas para decisões empresariais.
 
 ## Segmentação de Clientes: Quem São os VIPs e Por Quê?
-![Segmentação de Clientes](prints/Segmentação_de_Clientes.jpg)
+![Segmentação de Clientes](prints/Segmentação_de_Clientes.png)
 
 No perfil VIP estão as empresas Company BB e Company G, ambas apresentam ticket médio significativamente elevado (acima de R$5.000, chegando a R$13.800), 
 porém realizam poucas compras e em intervalos pouco recorrentes, o que caracteriza clientes de grande porte, mas com baixo engajamento no longo prazo. Juntas, 
@@ -23,7 +23,7 @@ O sucesso está diretamente ligado ao mix de produtos e na oferta de itens com m
 Destaca-se ainda o risco de eventuais perdas de clientes-chave, que poderiam comprometer mensalmente os resultados.
 
 ## Evolução Temporal do Faturamento
-![Evolução Temporal](prints/Evolução_Temporal.jpg)
+![Evolução Temporal](prints/Evolução_Temporal.png)
 
 A elevação do faturamento entre fevereiro e março foi impulsionada por um ticket médio excepcionalmente alto nesse período. Apesar do acréscimo no volume de vendas no mês seguinte, 
 a queda no ticket médio resultou em diminuição do faturamento, evidenciando que o valor do ticket é o principal determinante de crescimento. 
