@@ -39,4 +39,4 @@ Ticket médio elevado é um indicador relevante, mas não necessariamente reflet
 O número de pedidos isolado tampouco garante faturamento expressivo, pois regiões com volumes altos podem apresentar receitas inferiores às áreas com menos vendas e tickets mais elevados. 
 Frequência de compra semelhante ao número de pedidos em algumas cidades evidencia baixa fidelização da clientela. Para decisões estratégicas de expansão, 
 é imprescindível analisar não só o topo do ranking, mas o histórico de recorrência e o perfil dos clientes, priorizando regiões com base sólida e recorrente em detrimento de grandes vendas pontuais.
----
+
