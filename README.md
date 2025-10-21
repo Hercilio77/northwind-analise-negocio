@@ -5,6 +5,7 @@
 Este projeto utiliza consultas SQL no banco Northwind para responder perguntas reais de negócio sobre clientes, produtos, vendedores e regiões, com foco em insights executivos e recomendações práticas para decisões empresariais.
 
 ## Segmentação de Clientes: Quem São os VIPs e Por Quê?
+![Segmentação de Clientes](prints/Segmentacao_de_Clientes.jpg)
 
 No perfil VIP estão as empresas Company BB e Company G, ambas apresentam ticket médio significativamente elevado (acima de R$5.000, chegando a R$13.800), 
 porém realizam poucas compras e em intervalos pouco recorrentes, o que caracteriza clientes de grande porte, mas com baixo engajamento no longo prazo. Juntas, 
@@ -12,36 +13,35 @@ essas duas empresas representam 41% do faturamento total, evidenciando uma alta 
 Esse padrão aponta para risco crítico de concentração, já que a saída desses clientes causaria impacto expressivo na receita. Identificou-se ainda que o 
 cliente F (classificação Ouro) está próximo de se tornar VIP, recomendando-se priorizar ações de fidelização para ele e os clientes Prata com maior potencial de crescimento, 
 visando reduzir dependência dos atuais grandes contas.
-![Segmentação de Clientes](prints/Segmentacao_de_Clientes.jpg)
 
 ## Performance de Produtos
+![Performance de Produtos](prints/Performance_de_Produtos.jpg)
 
 O café, principal produto de alto ticket, responde por uma fatia relevante do faturamento, porém atende apenas quatro clientes, reforçando o risco de concentração. 
 Por outro lado, produtos de baixo valor como chá verde vendem em escala, mas não alteram de forma significativa o resultado financeiro global. 
 O sucesso está diretamente ligado ao mix de produtos e na oferta de itens com maior valor agregado — apenas aumentar o volume de vendas não garante crescimento sustentável. 
 Destaca-se ainda o risco de eventuais perdas de clientes-chave, que poderiam comprometer mensalmente os resultados.
-![Performance de Produtos](prints/Performance_de_Produtos.jpg)
 
 ## Evolução Temporal do Faturamento
+![Evolução Temporal](prints/Evolucao_Temporal.jpg)
 
 A elevação do faturamento entre fevereiro e março foi impulsionada por um ticket médio excepcionalmente alto nesse período. Apesar do acréscimo no volume de vendas no mês seguinte, 
 a queda no ticket médio resultou em diminuição do faturamento, evidenciando que o valor do ticket é o principal determinante de crescimento. 
 Apostar unicamente em vendas de alto valor pode ser arriscado, pois quedas pontuais afetam o desempenho. Recomenda-se expandir a base de clientes e diversificar 
 produtos comercializados para equilibrar volume e valor, construindo uma performance sustentável.
-![Evolução Temporal](prints/Evolucao_Temporal.jpg)
 
 ## Performance dos Vendedores
+![Performance dos Vendedores](prints/Performance_dos_Vendedores.jpg)
 
 O faturamento dos vendedores é significativamente impulsionado pelo volume de clientes e a quantidade de pedidos realizados, mais do que pelo ticket médio individual. 
 Vendedores com maior diversificação de produtos contribuem positivamente para o resultado global e reduzem riscos ao negócio. Atenção especial deve ser dada ao vendedor líder, 
 que concentra parcela relevante do faturamento, sua retenção e utilização como referência para o desenvolvimento dos demais colaboradores é fundamental para mitigar riscos e elevar o padrão da equipe.
-![Performance dos Vendedores](prints/Performance_dos_Vendedores.jpg)
 
 ## Performance Regional
+![Performance Regional](prints/Performance_Regional.jpg)
 
 Ticket médio elevado é um indicador relevante, mas não necessariamente reflete o potencial de cada região, já que vendas excepcionais podem distorcer o ranking temporariamente.
 O número de pedidos isolado tampouco garante faturamento expressivo, pois regiões com volumes altos podem apresentar receitas inferiores às áreas com menos vendas e tickets mais elevados. 
 Frequência de compra semelhante ao número de pedidos em algumas cidades evidencia baixa fidelização da clientela. Para decisões estratégicas de expansão, 
 é imprescindível analisar não só o topo do ranking, mas o histórico de recorrência e o perfil dos clientes, priorizando regiões com base sólida e recorrente em detrimento de grandes vendas pontuais.
-![Performance Regional](prints/Performance_Regional.jpg)
 
