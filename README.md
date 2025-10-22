@@ -53,8 +53,8 @@ Frequência de compra semelhante ao número de pedidos em algumas cidades eviden
 
 ## Sobre mim
 
-Hercílio Falcão, 18 anos
-Estudante de Engenharia de Software e formado no curso Técnico em Informática
-Linkedin: https://www.linkedin.com/in/herciliofalcao
-E-mail: hercilio2k0@gmail.com
+- Hercílio Falcão, 18 anos
+- Estudante de Engenharia de Software e formado no curso Técnico em Informática
+- Linkedin: https://www.linkedin.com/in/herciliofalcao
+- E-mail: hercilio2k0@gmail.com
 
