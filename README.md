@@ -4,6 +4,12 @@
 
 Este projeto utiliza consultas SQL no banco Northwind para responder perguntas reais de negócio sobre clientes, produtos, vendedores e regiões, com foco em insights executivos e recomendações práticas para decisões empresariais.
 
+## Ferramentas e Abordagem
+
+Banco de Dados: Northwind em MySQL
+Editor: Dbeaver
+Organização: Estruturei todas as consultas por análise e extraí prints dos resultados reais para fundamentar cada insight.
+
 ## Segmentação de Clientes: Quem São os VIPs e Por Quê?
 ![Segmentação de Clientes](prints/Segmentação_de_Clientes.png)
 
@@ -44,4 +50,11 @@ Ticket médio elevado é um indicador relevante, mas não necessariamente reflet
 O número de pedidos isolado tampouco garante faturamento expressivo, pois regiões com volumes altos podem apresentar receitas inferiores às áreas com menos vendas e tickets mais elevados. 
 Frequência de compra semelhante ao número de pedidos em algumas cidades evidencia baixa fidelização da clientela. Para decisões estratégicas de expansão, 
 é imprescindível analisar não só o topo do ranking, mas o histórico de recorrência e o perfil dos clientes, priorizando regiões com base sólida e recorrente em detrimento de grandes vendas pontuais.
+
+## Sobre mim
+
+Hercílio Falcão, 18 anos
+Estudante de Engenharia de Software e formado no curso Técnico em Informática
+Linkedin: https://www.linkedin.com/in/herciliofalcao
+E-mail: hercilio2k0@gmail.com
 
