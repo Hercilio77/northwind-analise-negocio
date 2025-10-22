@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Este projeto utiliza consultas SQL no banco Northwind para responder perguntas reais de negócio sobre clientes, produtos, vendedores e regiões, com foco em insights executivos e recomendações práticas para decisões empresariais.
+Nesta análise, aplico técnicas de SQL sobre o banco Northwind para responder perguntas-chave de negócio e gerar insights práticos para apoiar decisões em vendas e gestão comercial. Todo o estudo é orientado pelo impacto real no varejo: mitigar riscos, identificar oportunidades e entregar recomendações alinhadas ao padrão do mercado.
 
 ## Ferramentas e Abordagem
 
