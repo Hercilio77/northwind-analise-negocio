@@ -6,9 +6,9 @@ Este projeto utiliza consultas SQL no banco Northwind para responder perguntas r
 
 ## Ferramentas e Abordagem
 
-Banco de Dados: Northwind em MySQL
-Editor: Dbeaver
-Organização: Estruturei todas as consultas por análise e extraí prints dos resultados reais para fundamentar cada insight.
+- Banco de Dados: Northwind em MySQL
+- Editor: Dbeaver
+- Organização: Estruturei todas as consultas por análise e extraí prints dos resultados reais para fundamentar cada insight.
 
 ## Segmentação de Clientes: Quem São os VIPs e Por Quê?
 ![Segmentação de Clientes](prints/Segmentação_de_Clientes.png)
