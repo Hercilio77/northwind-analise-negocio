@@ -6,7 +6,7 @@ Nesta análise, aplico técnicas de SQL sobre o banco Northwind para responder p
 
 ## Ferramentas e Abordagem
 
-- Banco de Dados: Northwind em MySQL 8.0.42
+- Banco de Dados: Northwind em MySQL Versão 8.0.42
 - Editor: Dbeaver Versão 25.1.5.202508171444
 - Organização: Estruturei todas as consultas por análise e extraí prints dos resultados reais para fundamentar cada insight.
 
